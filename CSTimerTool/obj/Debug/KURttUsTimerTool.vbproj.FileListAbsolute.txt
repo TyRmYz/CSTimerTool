@@ -1,0 +1,20 @@
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\bin\Debug\KURttUsTimerTool.exe.config
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\bin\Debug\KURttUsTimerTool.exe
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\bin\Debug\KURttUsTimerTool.pdb
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\bin\Debug\KURttUsTimerTool.xml
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.Form1.resources
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.Resources.resources
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.vbproj.GenerateResource.Cache
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.exe
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.xml
+C:\Users\aki.berg\AppData\Local\Temporary Projects\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.pdb
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\KURttUsTimerTool.vbproj.GenerateResource.Cache
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\bin\Debug\cSTimerTool.exe.config
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\bin\Debug\CSTimerTool.exe
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\bin\Debug\CSTimerTool.pdb
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\bin\Debug\CSTimerTool.xml
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\CSTimerTool.Resources.resources
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\CSTimerTool.exe
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\CSTimerTool.xml
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\CSTimerTool.pdb
+C:\Users\aki.berg\OneDrive @ Luksia\Visual Studio 2012\Projects\KURttUsTimerTool\KURttUsTimerTool\obj\Debug\CSTimerTool.CSTimerTool.resources
